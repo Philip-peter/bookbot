@@ -11,9 +11,6 @@ def number_of_words():
         count += 1
     return count
 
-def sort_output(input_dict):
-    pass
-
 def count_letters():
     letters_dict = {}
     fetch_text = get_text()
