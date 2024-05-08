@@ -1,2 +1,2 @@
 # bookbot
-BookBot is my first git project!
+BookBot - a Python program that can analyze an entire book and print out an interesting statistical report
